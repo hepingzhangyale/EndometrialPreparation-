@@ -1,0 +1,1 @@
+The folders contain the dataset and SAS program that were used in the paper entitled "Natural ovulation versus programmed regimens before frozen embryo transfer in ovulatory women: multicenter, randomized clinical trial" by Wei et al.
